@@ -93,7 +93,6 @@ int main() {
 ## RESULT
 Thus the program to print 'WELCOME' using malloc() and free() has been executed successfully
  
-.
 
 
 
